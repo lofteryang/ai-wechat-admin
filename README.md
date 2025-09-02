@@ -4,7 +4,7 @@
 
 > 开源智能微信助手平台，将 AI 能力无缝融入微信生态，实现自动化消息处理与智能交互
 
-1、大模型接口 来自：[原能引擎，大模型中转站不掺水-真稳定](https://api.evopower.net) \- 稳定可靠，实测 gemini 模型表现优异
+1、大模型接口 来自：[原能引擎，大模型中转站不掺水-真稳定](https://api.evopower.net) \- 稳定可靠，实测 gemini 模型表现优异 **[加入 TG 交流群](https://t.me/evopower_ai)**
 
 2、核心依赖服务 [WechatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) 请先安装此服务
 
@@ -238,6 +238,12 @@ export default api
 3. 提交更改 (`git commit -am 'Add new feature'`)
 4. 推送分支 (`git push origin feature/xxx`)
 5. 新建 Pull Request
+
+# 重要说明
+
+1、本项目仅用于研究学习
+
+2、根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 
 # 👥 项目作者
 
